@@ -36,7 +36,12 @@ Añadimos la placa al entorno
 
 Y para instalar la librería basta con buscar Circuit Playground en el gestor de librería
 
+Si tenemos problemas para subir el programa:
+
+  sudo apt remove modemmanager
+
 ## Referencia
+
 
 [Aprende a usar Circuit Playground](https://learn.adafruit.com/introducing-circuit-playground?view=all)
 
